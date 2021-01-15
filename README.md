@@ -39,4 +39,27 @@ I'm currently learning Jest, Handlebars, NodeJS, ExpressJS, MongoDb, MySQL, Grap
 [![VK](https://img.shields.io/badge/VK-003772?style=for-the-badge&logo=VK)](https://vk.com/ervin_dev)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ervingg&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<<<<<<< HEAD
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervingg&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+=======
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervingg&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+<!--
+**ervingg/ervingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...Pronouns
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 5389367e918887e6999ece9f9383cb24dbd0f2fa
