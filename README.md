@@ -39,7 +39,7 @@ I'm begginer Frontend Developer
 [![VK](https://img.shields.io/badge/VK-003772?style=for-the-badge&logo=VK)](https://vk.com/ervin_dev)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ervingg&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervingg&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervingg&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
