@@ -38,5 +38,5 @@ I'm currently learning Jest, Handlebars, NodeJS, ExpressJS, MongoDb, MySQL, Grap
 [![Instagram](https://img.shields.io/badge/Instagram-003772?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ervin_dev/?hl=ru)
 [![VK](https://img.shields.io/badge/VK-003772?style=for-the-badge&logo=VK)](https://vk.com/ervin_dev)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ervingg&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervingg&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ervingg&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervingg&layout=compact&langs_count=10&theme=tokyonight)
