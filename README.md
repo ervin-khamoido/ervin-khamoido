@@ -1,4 +1,4 @@
-## Hi there, I'm Ervin - aka ervingg and a begginer Frontend Developer 👋
+## Hi there, I'm Ervin - aka ervingg and a begginer Fullstack Developer 👋
 
 ### Skills:
 
