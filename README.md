@@ -3,13 +3,8 @@
 ### Skills:
 
 ![Html](https://img.shields.io/badge/Html-003772?style=for-the-badge&logo=HTML5)
-![Pug](https://img.shields.io/badge/Pug-003772?style=for-the-badge)
-![Handlebars](https://img.shields.io/badge/Handlebars-003772?style=for-the-badge)
-
 ![CSS](https://img.shields.io/badge/CSS-003772?style=for-the-badge&logo=css3&logoColor=007bff)
 ![SASS](https://img.shields.io/badge/SASS/SCSS-003772?style=for-the-badge&logo=sass)
-![bootstrap](https://img.shields.io/badge/bootstrap-003772?style=for-the-badge&logo=bootstrap)
-![materialize](https://img.shields.io/badge/materialize-003772?style=for-the-badge&logo=materialize)
 
 ![JS](https://img.shields.io/badge/javascript-003772?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-003772?style=for-the-badge&logo=React)
@@ -22,11 +17,6 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-003772?style=for-the-badge&logo=nodejs)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-003772?style=for-the-badge&logo=Express)
 ![MongoDb](https://img.shields.io/badge/MongoDb-003772?style=for-the-badge&logo=MongoDb)
-![GraphQL](https://img.shields.io/badge/GraphQL-003772?style=for-the-badge&logo=GraphQL&logoColor=E00098)
-
-![Git](https://img.shields.io/badge/Git-003772?style=for-the-badge&logo=Git)
-![Github](https://img.shields.io/badge/Github-003772?style=for-the-badge&logo=Github)
-![Gitkraken](https://img.shields.io/badge/Gitkraken-003772?style=for-the-badge&logo=Gitkraken)
 
 ### Tools:
 
