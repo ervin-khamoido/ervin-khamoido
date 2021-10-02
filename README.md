@@ -32,7 +32,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-003772?style=for-the-badge&logo=TypeScript)
 
 ### Languages:
-![English](https://img.shields.io/badge/English (intermediate)-003772?style=for-the-badge&logo=English)
+![English](https://img.shields.io/badge/English (pre—intermediate)-003772?style=for-the-badge&logo=English)
 ![Russian](https://img.shields.io/badge/Russian (native)-003772?style=for-the-badge&logo=Russian)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian (advanced)-003772?style=for-the-badge&logo=Russian)
 
