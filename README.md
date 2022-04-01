@@ -1,4 +1,4 @@
-## Hi there, I'm Ervin - aka ervin-khamoido and a begginer Fullstack Developer 👋
+## Hi there, I'm Ervin - aka ervin-khamoido and a Fullstack Developer 👋
 
 ### Skills:
 
