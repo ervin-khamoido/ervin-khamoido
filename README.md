@@ -33,7 +33,7 @@
 ### Contacts:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-003772?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/ervin-khamoido-b67700188/)
-[![Telegram](https://img.shields.io/badge/Telegram-003772?style=for-the-badge&logo=Telegram)](t.me/ervin_khamoido)
+[![Telegram](https://img.shields.io/badge/Telegram-003772?style=for-the-badge&logo=Telegram)](https://t.me/ervin_khamoido)
 [![Instagram](https://img.shields.io/badge/Instagram-003772?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ervin_khamoido/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ervin-khamoido&show_icons=true&theme=tokyonight)
