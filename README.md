@@ -1,4 +1,4 @@
-## Hi there, I'm Ervin - aka ervin-khamoido and a Fullstack Developer 👋
+## Hi there, I'm Ervin - aka ervin-khamoido and a Sofware Engineer 👋
 
 ### Skills:
 
@@ -10,12 +10,20 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-003772?style=for-the-badge&logo=TypeScript)
 
 ![React](https://img.shields.io/badge/React-003772?style=for-the-badge&logo=React)
+![ReactNative](https://img.shields.io/badge/ReactNative-003772?style=for-the-badge&logo=ReactNative)
+![NextJS](https://img.shields.io/badge/NextJS-003772?style=for-the-badge&logo=NextJS)
 ![Redux](https://img.shields.io/badge/Redux-003772?style=for-the-badge&logo=Redux&logoColor=593D88)
 ![MobX](https://img.shields.io/badge/MobX-003772?style=for-the-badge&logo=MobX)
+![Jest](https://img.shields.io/badge/Jest-003772?style=for-the-badge&logo=Jest)
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-003772?style=for-the-badge&logo=nodejs)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-003772?style=for-the-badge&logo=Express)
+![NestJS](https://img.shields.io/badge/Nest-003772?style=for-the-badge&logo=NestJS)
+
 ![MongoDb](https://img.shields.io/badge/MongoDb-003772?style=for-the-badge&logo=MongoDb)
+![Mongoose](https://img.shields.io/badge/Mongoose-003772?style=for-the-badge&logo=Mongoose)
+![Sequalize](https://img.shields.io/badge/Sequalize-003772?style=for-the-badge&logo=Sequalize)
+![TypeORM](https://img.shields.io/badge/TypeORM-003772?style=for-the-badge&logo=TypeORM)
 ![PostgeSQL](https://img.shields.io/badge/PostgeSQL-003772?style=for-the-badge&logo=PostgeSQL)
 ![SQL](https://img.shields.io/badge/SQL-003772?style=for-the-badge&logo=SQL)
 
@@ -27,8 +35,9 @@
 
 ### Languages:
 ![English](https://img.shields.io/badge/English (pre—intermediate)-003772?style=for-the-badge&logo=English)
-![Russian](https://img.shields.io/badge/Russian (native)-003772?style=for-the-badge&logo=Russian)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian (advanced)-003772?style=for-the-badge&logo=Russian)
+![Russian](https://img.shields.io/badge/Russian (native)-003772?style=for-the-badge&logo=Russian)
+
 
 ### Contacts:
 
