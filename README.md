@@ -34,7 +34,7 @@
 ![Docker](https://img.shields.io/badge/Docker-003772?style=for-the-badge&logo=Docker)
 
 ### Languages:
-![English](https://img.shields.io/badge/English (pre—intermediate)-003772?style=for-the-badge&logo=English)
+![English](https://img.shields.io/badge/English (intermediate)-003772?style=for-the-badge&logo=English)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian (advanced)-003772?style=for-the-badge&logo=Russian)
 ![Russian](https://img.shields.io/badge/Russian (native)-003772?style=for-the-badge&logo=Russian)
 
