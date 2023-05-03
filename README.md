@@ -1,4 +1,4 @@
-## Hi there, I'm Ervin - aka ervin-khamoido and a Sofware Engineer 👋
+## Hi there, I'm Ervin - aka ervin-khamoido and a Software Engineer 👋
 
 ### Skills:
 
