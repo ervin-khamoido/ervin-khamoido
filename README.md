@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ervin Khamoido - aka ervin-khamoido and a Software Engineer 👋</h1>
+<h1 align="center">Hi there, I'm Ervin Khamoido - Full Stack Software Engineer 👋</h1>
 
 ### 🚀 About
 
