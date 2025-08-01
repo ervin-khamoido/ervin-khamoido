@@ -2,9 +2,16 @@
 
 ### 🚀 About
 
-Software Engineer since 2019, doing websites,
-mobile and desktop applications, server and
-infrastructure parts.
+Results-driven Senior Full Stack Software Engineer with rich experience delivering scalable, secure, and
+high-performance web, mobile, and desktop applications. Proven track record across fintech, crypto,
+healthtech, Web3, and AI sectors, having built and shipped complex products from MVP to production.
+Skilled in React, React Native, Next.js, Node.js, NestJS, PostgreSQL, and modern DevOps workflows with
+Docker, CI/CD, and AWS. Strong focus on system architecture, clean API design, test automation, and
+performance optimization across full-stack layers.
+
+---
+
+### 🛠️ SKILLS
 
 - **Frontend:** React, React Native, Next.js, Expo, Vue.js, Vuex, TypeScript, JavaScript (ES6+), Redux, MobX, Zustand, Recoil, React Hook Form, TailwindCSS, Material UI, Bootstrap, Styled Components, Framer Motion, GSAP
 - **Backend:** Node.js, NestJS, Express.js, Fastify, RabbitMQ, GraphQL, REST API, CQRS, pgTyped, Swagger/OpenAPI, JWT Auth, WebSockets, Server-Sent Events (SSE), Microservices Architecture, BFF Pattern
