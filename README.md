@@ -6,18 +6,21 @@ Software Engineer since 2019, doing websites,
 mobile and desktop applications, server and
 infrastructure parts.
 
-- **Frontend:** JavaScript, TypeScript, React, React Native, Next.js
-- **Backend:** Node.js, NestJS
-- **Databases:** PostgreSQL, MongoDB
-- **Testing:** Jest
-- **Cloud & DevOps:** Firebase, Docker, AWS
+- **Frontend:** React, React Native, Next.js, Expo, Vue.js, Vuex, TypeScript, JavaScript (ES6+), Redux, MobX, Zustand, Recoil, React Hook Form, TailwindCSS, Material UI, Bootstrap, Styled Components, Framer Motion, GSAP
+- **Backend:** Node.js, NestJS, Express.js, Fastify, RabbitMQ, GraphQL, REST API, CQRS, pgTyped, Swagger/OpenAPI, JWT Auth, WebSockets, Server-Sent Events (SSE), Microservices Architecture, BFF Pattern
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Redis, DynamoDB, Firebase
+- **Cloud & DevOps:** AWS  (EC2, S3, RDS, Lambda, CloudFront, API Gateway, Cognito, DynamoDB, IoT, SNS, SQS, SAM), Docker, Kubernetes, Serverless Framework, GitHub Actions, GitLab, CI/CD, Nginx, Vercel, Railway,
+- **AI/LLM & Web3:** OpenAI API, Anthropic Claude, LangChain, Prompt Engineering, Telegram Bot API, Solidity, Wallet Integration (MetaMask, Wallet Connect), Web3.js, Ethers.js
+- **Testing & QA:** Jest, React Testing Library, Cypress, Postman, Swagger, ESLint, Prettier
+- **Tools & Platforms:** Figma, Git, Jira, Trello, Notion, Obsidian, VSCode, WebStorm, CursorAI, Electron, pnpm, Yarn, npm, nvm, ChatGPT
+- **Languages:** English (B2+), German (A2+, continue studying), Ukrainian (native), Russian (fluent)
 
 ---
 
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,nodejs,postgres,mongodb,jest,firebase,docker,aws" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,nodejs,express,postgres,mongodb,jest,firebase,docker,kubernetes,aws,vue,redux,tailwindcss,redis,rabbitmq,mysql,sqlite,dynamodb,cypress,postman,figma,git,notion,obsidian,vscode,webstorm,electron,npm,yarn" alt="Technologies" />
 </p>
 
 ---
@@ -35,13 +38,4 @@ infrastructure parts.
   <a href="https://www.instagram.com/ervin_khamoido">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ervin-khamoido&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervin-khamoido&layout=compact&theme=radical" alt="Top Languages" />
 </p>
