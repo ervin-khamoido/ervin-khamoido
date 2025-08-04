@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Ervin Khamoido - Senior Full Stack Software Engineer 👋</h1>
+<h1 align="center">Hi there, I'm Ervin Khamoido - Full Stack Software Engineer 👋</h1>
 
 ### 🚀 About
 
-Results-driven Senior Full Stack Software Engineer with rich experience delivering scalable, secure, and
+Results-driven Full Stack Software Engineer with rich experience delivering scalable, secure, and
 high-performance web, mobile, and desktop applications. Proven track record across fintech, crypto,
 healthtech, Web3, and AI sectors, having built and shipped complex products from MVP to production.
 Skilled in React, React Native, Next.js, Node.js, NestJS, PostgreSQL, and modern DevOps workflows with
